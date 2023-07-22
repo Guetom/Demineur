@@ -1,5 +1,5 @@
-//igonre files of IDE
+#igonre files of IDE
 .idea/
 
-//ignore files of cmake
+#ignore files of cmake
 cmake-build-*/
